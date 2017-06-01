@@ -1,5 +1,5 @@
 $ErrorActionPreference= 'silentlycontinue'
-[String[]] $servers = "istinyeparkbeko.com","biorganic.com.tr", "nakkaszade.com","karadut.com.tr","dilekkitap.com","duvarflex.com","ipointart.com","aksesuarmagzasi.com","abatekmotor.com"
+[String[]] $servers = "google.com","alexa.com"
 foreach ($Server in $Servers)
 {
     $Addresses = $null
